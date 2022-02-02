@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: "center",
     //marginTop: 50,
-    marginTop: height*0.06157,
+    marginTop: height*0.061565,
   },
   Image: {
     //width: 360,
